@@ -54,8 +54,8 @@ home: {
 								blocks: 11,
 								slamDunks: 1
 }
-  }
-    },
+}
+},
 away: {
 				teammate:'Charlotte Hornets',
 				colors: ['Turquoise', 'Purple'],
@@ -111,7 +111,7 @@ away: {
 								slamDunks: 12
 }
         }
-               }
-                      }
-                             }
+}
+        }
+}
 console.log(gameObject());
